@@ -1,5 +1,5 @@
 # Vehicle Routing Problem for Monitoring Water Distribution Networks
-Public repository that makes available the set of randomly created instances used by _Atefi et. al_ (2022).
+Public repository that makes available the set of randomly created instances used by _Atefi et. al (2022)_.
 
 ## Mathematical Models
 - Time-based Model
