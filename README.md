@@ -16,7 +16,7 @@ OR in Service Industries; Vehicle Routing Problem; Water Distribution Networks; 
 - Iterated Local Search
 
 ## Reference
-Atefi, R., Iori, M., Salari, M., & Vezzali D. (2022). A Practical Vehicle Routing Problem for Monitoring Water Distribution Networks. _[arXiv:2202.02549](https://arxiv.org/abs/2202.02549) [math.OC]_.
+Atefi, R., Iori, M., Salari, M., & Vezzali, D. (2022). A Practical Vehicle Routing Problem for Monitoring Water Distribution Networks. _[arXiv:2202.02549](https://arxiv.org/abs/2202.02549) [math.OC]_.
 
 [^1]: Department of Industrial Engineering, Ferdowsi University of Mashhad, Mashhad, Iran
 [^2]: Department of Sciences and Methods for Engineering, University of Modena and Reggio Emilia, Reggio Emilia, Italy
