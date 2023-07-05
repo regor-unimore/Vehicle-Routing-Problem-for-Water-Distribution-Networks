@@ -2,17 +2,13 @@
 Reza Atefi [^1], Manuel Iori [^2], Majid Salari [^1] and Dario Vezzali [^2][^3]
 
 ## Abstract
-In this work, we introduce a generalisation of the Vehicle Routing Problem for a specific application in the monitoring of a Water Distribution Network (WDN). In this problem, multiple technicians must visit a sequence of nodes in the WDN and perform a series of tests to check the quality of water. Some special nodes (i.e., wells) require technicians to first collect a key from a key centre. The key must then be returned to the same key centre after the test has been performed, thus introducing precedence constraints and multiple visits in the routes. To solve the problem, a Mixed Integer Linear Programming model and an Iterated Local Search have been implemented. The efficiency of the proposed methods is demonstrated by means of extensive computational tests on real-world and randomly created instances.
+In this work, we introduce a generalisation of the Vehicle Routing Problem for a specific application in the monitoring of a Water Distribution Network (WDN). In this problem, multiple technicians must visit a sequence of nodes in the WDN and perform a series of tests to check the quality of water. Some special nodes (i.e., wells) require technicians to first collect a key from a key centre. The key must then be returned to the same key centre after the test has been performed, thus introducing precedence constraints and multiple visits in the routes. To solve the problem, a Mixed Integer Linear Programming model and an Iterated Local Search have been implemented. The efficiency of the proposed methods is demonstrated by means of extensive computational tests on randomly created and real-world instances.
 
 ## Keywords
 OR in Service Industries; Vehicle Routing Problem; Water Distribution Networks; Mixed Integer Linear Programming; Iterated Local Search
 
-## Mathematical Models
-- Time-based Model
+## Proposed methods
 - Flow-based Model
-- Node-based Model
-
-## Metaheuristics
 - Iterated Local Search
 
 ## Reference
