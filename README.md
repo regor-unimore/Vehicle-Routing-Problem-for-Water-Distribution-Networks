@@ -12,6 +12,7 @@ OR in Service Industries; Vehicle Routing Problem; Water Distribution Networks; 
 - Iterated Local Search
 
 ## References
+- Almoustafa, S. (2013). _Distance-constrained vehicle routing problem: Exact and approximate solution (mathematical programming)_. Doctoral dissertation, Brunel University.
 - Almoustafa, S., Hanafi, S., and Mladenović, N. (2013). New exact method for large asymmetric distance-constrained vehicle routing problem. _European Journal of Operational Research_, 226(3):386-394.
 - Atefi, R., Iori, M., Salari, M., and Vezzali, D. (2022). Solution of a Practical Vehicle Routing Problem for Monitoring Water Distribution Networks. _[arXiv:2202.02549](https://arxiv.org/abs/2202.02549) [math.OC]_.
 
